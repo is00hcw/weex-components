@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "main": "./index.we",
   "description": "A group of simple and useful weex components",
+  "license": "GPL",
   "repository": {
     "type": "git",
     "url": "https://github.com/weexteam/weex-components.git"
