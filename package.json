@@ -1,6 +1,6 @@
 {
   "name": "weex-components",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./index.we",
   "description": "A group of simple and useful weex components",
   "license": "GPL",
