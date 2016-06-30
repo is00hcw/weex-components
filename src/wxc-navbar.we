@@ -1,6 +1,6 @@
 <template>
     <div class="container" style="height:{{height}}; background-color:{{backgroundColor}};" data-role={{dataRole}}>
-        <text class="right-text" style="color:{{rightItemColor}};" navi-item-position="right" if={{!rightItemSrc}} onclick = "onclickrigthitem">{{rightItemTitle}}</text>
+        <text class="right-text" style="color:{{rightItemColor}};" navi-item-position="right" if={{!rightItemSrc}} onclick = "onclickrightitem">{{rightItemTitle}}</text>
         <image class="right-image" navi-item-position="right" src={{rightItemSrc}} if={{rightItemSrc}} onclick="onclickrightitem"></image>
         <text class="left-text" style="color:{{leftItemColor}};" navi-item-position="left" if={{!leftItemSrc}} onclick= "onclickleftitem">{{leftItemTitle}}</text>
         <image class="left-image" navi-item-position="left" src={{leftItemSrc}} if={{leftItemSrc}} onclick="onclickleftitem"></image>
